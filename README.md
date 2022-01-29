@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gabi Arnó</h1>
-<h3 align="center">A passionate developer from Venezuela living in Barcelona</h3>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/github.gif" alt="Hi, I'm Gabi Arno 👋 I'm a developer learning new things">
+</p>
 
 - 🌱 I’m currently learning **React, NodeJS**
 
