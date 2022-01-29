@@ -2,6 +2,14 @@
   <img src="https://github.com/gabiarno/gabiarno/blob/main/github.mov.gif" alt="Hi, I'm Gabi Arno 👋 I'm a developer learning new things">
 </p>
 
+<!--
+How to make this gif ?
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
+
 - 🌱 I’m currently learning **React, NodeJS**
 
 - 📫 How to reach me **gabiarno@gmail.com**
